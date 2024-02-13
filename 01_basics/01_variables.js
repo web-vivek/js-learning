@@ -7,3 +7,9 @@ let accountState;
 // console.log();
 
 console.table([accounId, accountEmail,accountPassword, accountCity, accountState])
+
+/*
+prefer not use var 
+because of issue in block scope and functional scope
+
+*/
